@@ -1,0 +1,9 @@
+.idea
+target
+*.iml
+.classpath
+.project
+.settings
+bin
+__pycache__
+reported-results/*
